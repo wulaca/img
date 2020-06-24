@@ -1,0 +1,129 @@
+/* Temporary CSS Update in 2020-06-24 */
+a,
+.list .hot,
+.comment-to,
+.blogname .ca-icon,
+.trends .state-count,
+.master-info-small .nickname,
+.gotop,
+.share,
+#share a:hover,
+.content h2:before,
+.ajax-edit .edit-cue a,
+.comment-examine .open-link,
+.player .list .playing,
+.lyric-text .geci_attention,
+.player .list li:hover,
+.player .control .item:hover,
+.archives .list li a:hover,
+.list .title a:hover,
+#overlay .full-link:hover {
+	color: #898C7B;
+}
+
+.nav-menu a:hover,
+.main-menu .current-menu-item a {
+	border-color: #898C7B;
+	color: #898C7B;
+}
+
+#button, 
+.button a {
+	background: linear-gradient(left , rgba(105,90,114,0.99),rgba(133,127,145,0.99) 100%);
+	background: -o-linear-gradient(left , rgba(105,90,114,0.99),rgba(133,127,145,0.99) 100%);
+	background: -ms-linear-gradient(left , rgba(105,90,114,0.99),rgba(133,127,145,0.99) 100%);
+	background: -moz-linear-gradient(left , rgba(105,90,114,0.99),rgba(133,127,145,0.99) 100%);
+	background: -webkit-linear-gradient(left , rgba(105,90,114,0.99),rgba(133,127,145,0.99) 100%);
+}
+
+.checkbox-radio:checked + .radioinput:after {
+	background-color: #898C7B;
+}
+
+.comment-reply,
+.children .comment-body:before,
+.loader .circle:after,
+#nprogress .bar {
+	background: #898C7B;
+}
+
+.tips-temp:before {
+	border-bottom-color: #898C7B;
+}
+.tips-temp:after {
+	background: #898C7B;
+}
+
+#nprogress .peg {
+	box-shadow-color: 0 0 10px #898C7B, 0 0 5px #898C7B;
+}
+
+#nprogress .spinner-icon {
+	border-top-color: #898C7B;
+	border-left-color: #898C7B;
+}
+
+#notification .title {
+	border-color: #898C7B;
+}
+
+.links-bar .item a:hover {
+	background: #898C7B;
+	color: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #898C7B;
+}
+
+body {
+	font-family: Comic Sans MS;
+	background: #efefef;
+}
+
+.banner,#bgvideo {
+	height: 590px;
+}
+
+.banner:before {
+	background: linear-gradient(left , rgba(226,35,18,0.5),rgba(56,181,160,0.5) 100%);
+	background: -o-linear-gradient(left , rgba(226,35,18,0.5),rgba(56,181,160,0.5) 100%);
+	background: -ms-linear-gradient(left , rgba(226,35,18,0.5),rgba(56,181,160,0.5) 100%);
+	background: -moz-linear-gradient(left , rgba(226,35,18,0.5),rgba(56,181,160,0.5) 100%);
+	background: -webkit-linear-gradient(left , rgba(226,35,18,0.5),rgba(56,181,160,0.5) 100%);
+}
+
+.width {
+	max-width: -1px;
+}
+
+.sns-avatar.max {
+	border-radius:12px
+}
+
+.avatar-200 {
+	border-radius:8px
+}
+.avatar-36,
+.avatar-42,
+.avatar-75 {
+	border-radius:4px
+}
+
+.avatar-24 {
+	border-radius:3px
+}
+
+.content .tags a {
+	border-radius:2px
+}
+
+#button,
+#commentform input,
+#commentform textarea,
+.button a,
+.hot-comment .image img,
+.links-bar .item a,
+.list .topic-thumb {
+	border-radius:3px
+}
