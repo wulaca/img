@@ -1530,7 +1530,7 @@ a,
 
 .thumb,
 .entry-content img {
-    width: 100%;
+    # width: 100%; 注释掉,此项设置会导致博客图片显示异常！ 偶买噶-.-
     border-radius: 5px;
     display: block;
     overflow: hidden
