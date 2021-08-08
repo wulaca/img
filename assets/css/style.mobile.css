@@ -117,7 +117,7 @@
 	    display: none;
 	}
     .banner, #bgvideo {
-        height: 200px;
+        height: 200px!important;
         margin-left: 0.3cm;
         margin-right: 0.3cm;
     }
